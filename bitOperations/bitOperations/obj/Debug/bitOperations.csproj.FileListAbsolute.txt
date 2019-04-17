@@ -1,0 +1,10 @@
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\obj\Debug\bitOperations.csprojAssemblyReference.cache
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\obj\Debug\bitOperations.Properties.Resources.resources
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\obj\Debug\bitOperations.csproj.GenerateResource.cache
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\obj\Debug\bitOperations.csproj.CoreCompileInputs.cache
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\bin\Debug\bitOperations.exe.config
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\bin\Debug\bitOperations.exe
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\bin\Debug\bitOperations.pdb
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\obj\Debug\bitOperations.exe
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\obj\Debug\bitOperations.pdb
+D:\programing\CSharp\bitOperations\bitOperations\bitOperations\obj\Debug\bitOperations.Form1.resources
